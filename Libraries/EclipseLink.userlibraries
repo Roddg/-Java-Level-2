@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="WINDOWS-1251" standalone="no"?>
+<eclipse-userlibraries version="2">
+    <library name="EclipseLink 2.5.2" systemlibrary="false">
+        <archive path="C:/Java-2-0418/Libraries/EclipseLink 2.5.2/eclipselink/jlib/eclipselink.jar" source="C:/Java-2-0418/libraries/EclipseLink 2.5.2/eclipselink/jlib/eclipselink-src.zip"/>
+        <archive path="C:/Java-2-0418/Libraries/EclipseLink 2.5.2/eclipselink/jlib/jpa/javax.persistence_2.1.0.v201304241213.jar"/>
+        <archive path="C:/Java-2-0418/Libraries/EclipseLink 2.5.2/eclipselink/jlib/jpa/org.eclipse.persistence.jpa.modelgen_2.5.2.v20140319-9ad6abd.jar"/>
+        <archive path="C:/Java-2-0418/Libraries/EclipseLink 2.5.2/eclipselink/jlib/jpa/org.eclipse.persistence.jpars_2.5.2.v20140319-9ad6abd.jar"/>
+        <archive path="C:/Java-2-0418/Libraries/EclipseLink 2.5.2/eclipselink/jlib/moxy/com.sun.tools.xjc_2.2.0.jar"/>
+        <archive path="C:/Java-2-0418/Libraries/EclipseLink 2.5.2/eclipselink/jlib/moxy/com.sun.xml.bind_2.2.0.v201004141950.jar"/>
+        <archive path="C:/Java-2-0418/Libraries/EclipseLink 2.5.2/eclipselink/jlib/moxy/javax.activation_1.1.0.v201108011116.jar"/>
+        <archive path="C:/Java-2-0418/Libraries/EclipseLink 2.5.2/eclipselink/jlib/moxy/javax.mail_1.4.0.v201005080615.jar"/>
+        <archive path="C:/Java-2-0418/Libraries/EclipseLink 2.5.2/eclipselink/jlib/moxy/javax.xml.bind_2.2.0.v201105210648.jar"/>
+        <archive path="C:/Java-2-0418/Libraries/EclipseLink 2.5.2/eclipselink/jlib/moxy/javax.xml.stream_1.0.1.v201004272200.jar"/>
+    </library>
+</eclipse-userlibraries>
